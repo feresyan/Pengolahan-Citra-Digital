@@ -1,0 +1,32 @@
+Link Video Youtube :
+
+https://youtu.be/Se5pAIOTUNg
+
+List Fungsi Yang Jalan :
+1. open file image
+2. zoom in
+3. zoom out
+4. flip horizontal
+5. flip vertical
+6. Grayscale
+7. invers
+8. brighness ( plus, minus, cross & divide)
+9. rotate image
+10. compression image
+11. dilasi
+12. erosi
+13. histogram (RGB & gray)
+14. segmentasi
+15. konvolusi (blur, sharp,edge & custom konvolusi)
+16. treshold image
+17. crop image
+18. noise (mean,median & modus filter)
+
+List fungsi yang ngga jalan :
+1.-
+
+List fungsi yang ngga beres :
+1.-
+
+List fungsi yang tidak dikerjakan :
+1. -
