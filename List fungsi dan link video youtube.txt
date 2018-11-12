@@ -1,7 +1,5 @@
 Link Video Youtube :
 
-https://youtu.be/Se5pAIOTUNg
-
 List Fungsi Yang Jalan :
 1. open file image
 2. zoom in
